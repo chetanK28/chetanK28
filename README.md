@@ -73,11 +73,7 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chetanK28&theme=tokyo-night" alt="Contribution Graph" />
-  </a>
-</p>
+<p align="center"> <a href="https://github.com/chetanK28"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chetanK28&theme=github" alt="Contribution Graph" /> </a> </p>
 
 ---
 
