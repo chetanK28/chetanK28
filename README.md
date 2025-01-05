@@ -32,33 +32,6 @@
 
 ---
 
-## 🔥 Projects
-
-### [FinVault Banking Website](https://github.com/chetanK28/FinVault)
-- A secure and user-friendly banking platform to manage accounts, transactions, and loans.
-- Tech Stack: **React, Spring Boot, MySQL**
-- Key Features: Authentication, role-based access, and RESTful API integration.
-
-### [E-Commerce Platform for Local Artisans](https://github.com/chetanK28/ArtisanShop)
-- A marketplace for artisans to showcase and sell their handmade products.
-- Tech Stack: **Bootstrap, CSS, MySQL, JavaScript**
-- Key Features: Product catalog, secure payments, and dynamic cart functionality.
-
-### [Performance Appraisal System](https://github.com/chetanK28/PerformanceAppraisal)
-- A streamlined solution for employee evaluations, KPI tracking, and feedback collection.
-- Tech Stack: **React, MySQL**
-- Key Features: Role-based access, dynamic dashboards, and performance insights.
-
----
-
-## 📜 Certifications
-
-- **Web Development** - Apna College  
-- **Java** - Udemy  
-- **Python** - Coursera  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -68,7 +41,5 @@
 ---
 
 ### 🙌 Show Some ❤️ by Starring Repositories and Following Me!
-
-[![Chetan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=chetanK28&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
