@@ -4,6 +4,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chetank28&label=Profile%20views&color=0e75b6&style=flat" alt="chetank28" /> </p>
 
+
+## 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=chetanK28&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 - 🔭 **Currently Working On**: Backend development using Spring Boot and Node.js for personal projects.  
