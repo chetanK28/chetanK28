@@ -88,10 +88,3 @@
 </p>
 
 ---
-
-### **Highlights:**
-1. **Profile Picture**: Displays a circular image for a personal touch.
-   - Replace the URL in the `<img>` tag with the link to your picture.
-2. **Contribution Graph Theme**: Updated to a modern **"Tokyo Night"** theme for better visuals.
-
-Let me know if you want further customization or need help adding your picture! 😊
